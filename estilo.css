@@ -61,6 +61,10 @@ input[type=submit]{
 	border: none;
 	border-radius: 3px;
 	color: #fff;
+	cursor: pointer
+}
+input[type=submit]hover{
+background-color: #833c3c;
 }
 div.titulo{
 	width: 80px;
